@@ -236,4 +236,4 @@ This repository serves as the official landing page for Windows NT SP6. The soft
 **Get the most recent version of Windows NT SP6 today!**
 
 ---
-**Last updated:** 2026-10-26 05:34:31 UTC
+**Last updated:** 2026-10-26 11:50:09 UTC
